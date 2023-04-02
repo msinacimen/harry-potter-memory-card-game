@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317534677262",
+    "firebase_url": "https://harrypottermemorymaster-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "harrypottermemorymaster",
+    "storage_bucket": "harrypottermemorymaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317534677262:android:eceb11e2c051cd0b134f5f",
+        "android_client_info": {
+          "package_name": "com.proje3.harrypottermemorymaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317534677262-ohhd7maobl97ee0v5rmchtbncegfm661.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proje3.harrypottermemorymaster",
+            "certificate_hash": "bf58f40be14e519a817a6c49b59a3b0ee08d08f9"
+          }
+        },
+        {
+          "client_id": "317534677262-cjt74m7u9huhrcqbrghq1vagk0asv5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTF94UQ0rB_IRhOT7kDr8tLI4u79IirsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317534677262-cjt74m7u9huhrcqbrghq1vagk0asv5j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

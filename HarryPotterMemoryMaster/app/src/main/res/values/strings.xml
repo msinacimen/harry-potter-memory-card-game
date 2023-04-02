@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Memory Master</string>
+    <string name="sign_in">SIGN UP</string>
+    <string name="log_in">LOG IN</string>
+    <string name="textForSignUp">Dont have an account?</string>
+    <string name="passwordinbox">Password</string>
+    <string name="usernameinbox">Username</string>
+    <string name="single_player">SinglePlayer</string>
+    <string name="multi_player">MultiPlayer</string>
+    <string name="choose_diff_text">Choose game difficulty level</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="time_remaining">100</string>
+    <string name="score">0</string>
+    <string name="timetxt">Time:</string>
+    <string name="scoretxt">Score:</string>
+    <string name="currentplayer">currentPlayer</string>
+    <string name="player2_score">Player2 Score:</string>
+    <string name="score2">0</string>
+</resources>
